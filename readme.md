@@ -5,7 +5,7 @@ in cloud location whose url started with HTTP and SBT does not like it(since it 
 
 So these jars were downloaded from alternate cloud locations(using an extensive google search) and made them available for SBT runtime.
 
-Overall this is an massive effort to build a spark runtime using an ancient version of it. Solely done for educational purpose. Ancient version had onl limited files facilatiting to grasp the architecture and mechanism easily.
+Overall this called for an massive effort(involving good 2 days of my quality time) to build a spark runtime using an ancient version of it. Solely done for educational purpose. Ancient version had onl limited files facilatiting to grasp the architecture and mechanism easily.
 
 
 Please find the runtime in the below google share:
